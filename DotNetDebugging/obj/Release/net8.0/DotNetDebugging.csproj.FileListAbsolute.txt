@@ -1,0 +1,15 @@
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.exe
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.deps.json
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.dll
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.pdb
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.sourcelink.json
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.dll
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\refint\DotNetDebugging.dll
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.pdb
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Reece\Documents\CSE-325\CSE-325\DotNetDebugging\obj\Release\net8.0\ref\DotNetDebugging.dll
