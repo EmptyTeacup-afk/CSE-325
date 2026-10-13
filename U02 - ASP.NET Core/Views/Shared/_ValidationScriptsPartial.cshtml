@@ -1,2 +1,24 @@
 ﻿<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script>
+    (function ($) {
+        $.validator.methods.number = function (value, element) {
+            return this.optional(element) || /^-?\d+(?:[.,]\d+)?$/.test(value);
+        };
+
+        const rangeMethod = $.validator.methods.range;
+        $.validator.methods.range = function (value, element, range) {
+            return rangeMethod.call(this, value.replace(",", "."), element, range);
+        };
+
+        $("form").on("submit", function () {
+            $(this).find("[data-decimal-separator]").each(function () {
+                const decimalSeparator = this.dataset.decimalSeparator;
+                const alternateSeparator = decimalSeparator === "," ? "." : ",";
+                if (this.value.includes(alternateSeparator) && !this.value.includes(decimalSeparator)) {
+                    this.value = this.value.replace(alternateSeparator, decimalSeparator);
+                }
+            });
+        });
+    })(jQuery);
+</script>
 <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
