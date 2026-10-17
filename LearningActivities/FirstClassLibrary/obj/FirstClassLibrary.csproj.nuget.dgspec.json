@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj": {}
+    "c:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj": {
-      "version": "1.0.0",
+    "c:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj": {
+      "version": "0.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj",
-        "projectName": "FirstClassLibrary",
-        "projectPath": "C:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj",
+        "projectName": "My.FirstClassLibrary",
+        "projectPath": "c:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\FirstClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Reece\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\obj\\",
+        "outputPath": "c:\\Users\\Reece\\Documents\\CSE-325\\CSE-325\\LearningActivities\\FirstClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reece\\AppData\\Roaming\\NuGet\\NuGet.Config"
